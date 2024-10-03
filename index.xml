@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nasir</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Nasir</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>班級段考成績查詢系統使用說明</title>
+      <link>https://example.org/posts/classroom/</link>
+      <pubDate>Thu, 03 Oct 2024 21:03:30 +0800</pubDate>
+      <guid>https://example.org/posts/classroom/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;本篇介紹如何操作班級段考成績系統&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;電腦版：首先先進入到各班導師提供之成績查詢頁面。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/kXSZGYi.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;輸入學生的座號兩碼以及生日共7碼。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EX. 30號，輸入 30 ，生日的地方輸入 0990101 『範例格式』&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/KTfItgF.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;進入系統後，即可查看貴子女的段考成績了。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/Bxm1XMn.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;手機版：
+&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/SfO6URd.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
+
+輸入學生的座號兩碼以及生日共7碼。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EX. 30號，輸入 30 ，生日的地方輸入 0990101 『範例格式』
+&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/6AqaiLP.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
+
+進入系統後，即可查看貴子女的段考成績了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果有帳號密碼無法登入、需要進行修改，可聯繫貴班導師或是特聘 Nasir！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>作品集</title>
+      <link>https://example.org/portfolio/</link>
+      <pubDate>Thu, 03 Oct 2024 20:55:09 +0800</pubDate>
+      <guid>https://example.org/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>專題作品</title>
+      <link>https://example.org/project/</link>
+      <pubDate>Thu, 03 Oct 2024 20:54:57 +0800</pubDate>
+      <guid>https://example.org/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Thu, 03 Oct 2024 20:53:17 +0800</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 03 Oct 2024 20:44:21 +0800</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;關於我&#34;&gt;關於我&lt;/h1&gt;
+&lt;p&gt;一位來自台中北漂的熱血青年，具有多重斜槓人格特質！專長於資訊方面維護及應用。&lt;br&gt;
+同時目前為國立草屯高級商工職業學校資處ㄧ班 特聘IT兼任TA&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;學歷&#34;&gt;🏫學歷&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;國立臺北商業大學&lt;/strong&gt; - 資訊管理系&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;國立草屯高級商工職業學校&lt;/strong&gt; - 資料處理科&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;經歷&#34;&gt;💼經歷&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;國立草屯高級商工職業學校資處ㄧ班特聘IT兼任TA (113~116)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;曾任服裝公司主管及客服專員&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;112年度彰投區學⽣學習歷程檔案分享會發言人&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;鋼琴作品&#34;&gt;🎹鋼琴作品&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jimmy&amp;rsquo;s Piano 鋼琴譜 頻道創始人，具有⾼達70000瀏覽量，作品超過 1000多⼈索取使⽤&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;具有教育熱誠，通過Apple Teacher Swift Playground 等教育認證，運用科技，融入教育裡，創新教學為未來趨勢！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-專業證照&#34;&gt;📜 專業證照&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft Office Specialist PowerPoint 2016 國際原廠認證&lt;/li&gt;
+&lt;li&gt;Adobe Certified Professional Photoshop 2023  國際原廠認證&lt;/li&gt;
+&lt;li&gt;中華民國⼄ /丙級電腦軟體應⽤技術⼠&lt;/li&gt;
+&lt;li&gt;中華民國丙級⼈⼯記帳會計技術⼠&lt;/li&gt;
+&lt;li&gt;中華民國丙級電腦硬體裝修技術⼠&lt;/li&gt;
+&lt;li&gt;GLAD BAP - Word 2016 / PowerPoint 2016 / AI⼈⼯智慧 - 國際認證&lt;/li&gt;
+&lt;li&gt;GLAD PVQC 資訊類專業英⽂詞彙國際認證&lt;/li&gt;
+&lt;li&gt;NCC國家通訊傳播委員會業餘無線電⼈員&lt;/li&gt;
+&lt;li&gt;GEPT全民英檢 初級&lt;/li&gt;
+&lt;li&gt;TQC 電⼦商務概論 / Linux網路管理 / 系統管理 -專業級&lt;/li&gt;
+&lt;li&gt;TQC 雲端技術及網路服務 專業級 / PowerPoint 2016 進階級&lt;/li&gt;
+&lt;li&gt;TQC 專業Linux 系統管理⼯程師認證&lt;/li&gt;
+&lt;li&gt;TQC 專業Linux 網路管理⼯程師認證&lt;/li&gt;
+&lt;li&gt;TQC 專業⾏動裝置應⽤⼯程師認證&lt;/li&gt;
+&lt;li&gt;MOCC - App Inventor 程式設計 / 電⼦商務 / 資訊科技 - 標準級&lt;/li&gt;
+&lt;li&gt;Google 數位學程通過&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-競賽經歷&#34;&gt;🏆 競賽經歷&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2024年 「智在⽣活ABCD應⽤」競賽電腦應⽤組全國第⼀名🔥&lt;/li&gt;
+&lt;li&gt;2024年全民e化資訊運動會（春季賽）資訊科技全國第⼀名🔥&lt;/li&gt;
+&lt;li&gt;2024年全民e化資訊運動會（春季賽）電⼦商務全國第三名&lt;/li&gt;
+&lt;li&gt;2023 微軟MOS 世界盃 PowerPoint 全國總決賽 第三名🔥&lt;/li&gt;
+&lt;li&gt;2023年全國⾼中職簡報競賽決賽 餐飲產業B組第⼆名&lt;/li&gt;
+&lt;li&gt;2023年MARC 智慧⾃⾛⾞暨機器⼈創意競賽-佳作&lt;/li&gt;
+&lt;li&gt;2022年GLAD 資訊類專業英⽂詞彙 中區賽 ⾦腦獎&lt;/li&gt;
+&lt;li&gt;2022年全民e化資訊運動會（秋季賽）App Inventor第五名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-聯繫我&#34;&gt;📬 聯繫我&lt;/h3&gt;
+&lt;p&gt;如果想聯繫我，可以通過以下方式：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
