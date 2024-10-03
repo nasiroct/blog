@@ -1,72 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nasir</title>
     <link>https://nasiroct.github.io/blog/</link>
     <description>Recent content on Nasir</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate>
-    <atom:link href="https://nasiroct.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate><atom:link href="https://nasiroct.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>班級段考成績查詢系統使用說明</title>
       <link>https://nasiroct.github.io/blog/posts/classroom/</link>
       <pubDate>Thu, 03 Oct 2024 21:03:30 +0800</pubDate>
+      
       <guid>https://nasiroct.github.io/blog/posts/classroom/</guid>
-      <description>&lt;blockquote&gt;
+      
+        <description>&lt;blockquote&gt;
 &lt;p&gt;本篇介紹如何操作班級段考成績系統&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;電腦版：首先先進入到各班導師提供之成績查詢頁面。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/kXSZGYi.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/kXSZGYi.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;&gt;&lt;/p&gt;
 &lt;p&gt;輸入學生的座號兩碼以及生日共7碼。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;EX. 30號，輸入 30 ，生日的地方輸入 0990101 『範例格式』&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/KTfItgF.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KTfItgF.jpeg&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;&gt;&lt;/p&gt;
 &lt;p&gt;進入系統後，即可查看貴子女的段考成績了。&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/Bxm1XMn.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Bxm1XMn.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;&gt;&lt;/p&gt;
 &lt;p&gt;手機版：
-&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/SfO6URd.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
-
+&lt;img src=&#34;https://i.imgur.com/SfO6URd.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;&gt;
 輸入學生的座號兩碼以及生日共7碼。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;EX. 30號，輸入 30 ，生日的地方輸入 0990101 『範例格式』
-&lt;img loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/6AqaiLP.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;  /&gt;
-
+&lt;img src=&#34;https://i.imgur.com/6AqaiLP.png&#34; alt=&#34;班級段考成績查詢系統使用說明&#34;&gt;
 進入系統後，即可查看貴子女的段考成績了。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;如果有帳號密碼無法登入、需要進行修改，可聯繫貴班導師或是特聘 Nasir！&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>作品集</title>
       <link>https://nasiroct.github.io/blog/portfolio/</link>
       <pubDate>Thu, 03 Oct 2024 20:55:09 +0800</pubDate>
+      
       <guid>https://nasiroct.github.io/blog/portfolio/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>專題作品</title>
       <link>https://nasiroct.github.io/blog/project/</link>
       <pubDate>Thu, 03 Oct 2024 20:54:57 +0800</pubDate>
+      
       <guid>https://nasiroct.github.io/blog/project/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>Contact</title>
       <link>https://nasiroct.github.io/blog/contact/</link>
       <pubDate>Thu, 03 Oct 2024 20:53:17 +0800</pubDate>
+      
       <guid>https://nasiroct.github.io/blog/contact/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>About</title>
       <link>https://nasiroct.github.io/blog/about/</link>
       <pubDate>Thu, 03 Oct 2024 20:44:21 +0800</pubDate>
+      
       <guid>https://nasiroct.github.io/blog/about/</guid>
-      <description>&lt;h1 id=&#34;關於我&#34;&gt;關於我&lt;/h1&gt;
+      
+        <description>&lt;h1 id=&#34;關於我&#34;&gt;關於我&lt;/h1&gt;
 &lt;p&gt;一位來自台中北漂的熱血青年，具有多重斜槓人格特質！專長於資訊方面維護及應用。&lt;br&gt;
 同時目前為國立草屯高級商工職業學校資處ㄧ班 特聘IT兼任TA&lt;/p&gt;
 &lt;hr&gt;
@@ -127,6 +139,8 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;-聯繫我&#34;&gt;📬 聯繫我&lt;/h3&gt;
 &lt;p&gt;如果想聯繫我，可以通過以下方式：&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
