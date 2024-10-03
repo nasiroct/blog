@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nasir</title>
-    <link>https://example.org/</link>
+    <link>https://nasiroct.github.io/blog/</link>
     <description>Recent content on Nasir</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nasiroct.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>班級段考成績查詢系統使用說明</title>
-      <link>https://example.org/posts/classroom/</link>
+      <link>https://nasiroct.github.io/blog/posts/classroom/</link>
       <pubDate>Thu, 03 Oct 2024 21:03:30 +0800</pubDate>
-      <guid>https://example.org/posts/classroom/</guid>
+      <guid>https://nasiroct.github.io/blog/posts/classroom/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本篇介紹如何操作班級段考成績系統&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -42,30 +42,30 @@
     </item>
     <item>
       <title>作品集</title>
-      <link>https://example.org/portfolio/</link>
+      <link>https://nasiroct.github.io/blog/portfolio/</link>
       <pubDate>Thu, 03 Oct 2024 20:55:09 +0800</pubDate>
-      <guid>https://example.org/portfolio/</guid>
+      <guid>https://nasiroct.github.io/blog/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>專題作品</title>
-      <link>https://example.org/project/</link>
+      <link>https://nasiroct.github.io/blog/project/</link>
       <pubDate>Thu, 03 Oct 2024 20:54:57 +0800</pubDate>
-      <guid>https://example.org/project/</guid>
+      <guid>https://nasiroct.github.io/blog/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>https://nasiroct.github.io/blog/contact/</link>
       <pubDate>Thu, 03 Oct 2024 20:53:17 +0800</pubDate>
-      <guid>https://example.org/contact/</guid>
+      <guid>https://nasiroct.github.io/blog/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://nasiroct.github.io/blog/about/</link>
       <pubDate>Thu, 03 Oct 2024 20:44:21 +0800</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://nasiroct.github.io/blog/about/</guid>
       <description>&lt;h1 id=&#34;關於我&#34;&gt;關於我&lt;/h1&gt;
 &lt;p&gt;一位來自台中北漂的熱血青年，具有多重斜槓人格特質！專長於資訊方面維護及應用。&lt;br&gt;
 同時目前為國立草屯高級商工職業學校資處ㄧ班 特聘IT兼任TA&lt;/p&gt;

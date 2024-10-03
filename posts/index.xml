@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nasir</title>
-    <link>https://example.org/posts/</link>
+    <link>https://nasiroct.github.io/blog/posts/</link>
     <description>Recent content in Posts on Nasir</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nasiroct.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>班級段考成績查詢系統使用說明</title>
-      <link>https://example.org/posts/classroom/</link>
+      <link>https://nasiroct.github.io/blog/posts/classroom/</link>
       <pubDate>Thu, 03 Oct 2024 21:03:30 +0800</pubDate>
-      <guid>https://example.org/posts/classroom/</guid>
+      <guid>https://nasiroct.github.io/blog/posts/classroom/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本篇介紹如何操作班級段考成績系統&lt;/p&gt;
 &lt;/blockquote&gt;
