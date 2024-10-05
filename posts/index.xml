@@ -6,7 +6,40 @@
     <description>Recent content in Posts on Nasir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 21:03:30 +0800</lastBuildDate><atom:link href="https://nasiroct.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 04:42:50 +0800</lastBuildDate><atom:link href="https://nasiroct.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TTVS 競賽檢定練習系統操作說明</title>
+      <link>https://nasiroct.github.io/blog/posts/ttvsexam/</link>
+      <pubDate>Sun, 06 Oct 2024 04:42:50 +0800</pubDate>
+      
+      <guid>https://nasiroct.github.io/blog/posts/ttvsexam/</guid>
+      
+        <description>&lt;h2 id=&#34;如何進行使用&#34;&gt;如何進行使用&lt;/h2&gt;
+&lt;h3 id=&#34;電腦版&#34;&gt;電腦版&lt;/h3&gt;
+&lt;p&gt;首先先到 &lt;a href=&#34;https://ttvsexam.web.app&#34;&gt;https://ttvsexam.web.app&lt;/a&gt; 點開後，按下登入（需要註冊登入才可使用內容），然後按下註冊，建立一個新帳號&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100601.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100602.png&#34; alt=&#34;02&#34;&gt;&lt;/p&gt;
+&lt;p&gt;註冊成功後，記得要按下『驗證信箱』，進行信箱綁定，未來忘記密碼時，可以找的回來，日後如忘記密碼，也可聯繫開發者，後台可進行更改密碼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100604.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;成功後，會顯示發送驗證信的彈窗信息&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100601.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接著要到信箱去收驗證信&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100606.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;驗證成功後，就可以開始使用了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100607.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;系統裡面有部分可以練習的資源&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100608.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;PVQC 檢定前、賽前或無聊時可以瘋狂刷題增加記憶力
+練習版是每答一題，就會告訴你正不正確&lt;/p&gt;
+&lt;p&gt;而測驗版就是當全部答題完後，才會把所有分數統計出來，滿分80分！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100609.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;也有聽力功能，在休閒時可以多多聆聽！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100610.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在電子商務和其他題庫部分，也可於考前或是休閒時，進行刷題！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nasiroct.github.io/blog/blog/images/1006/100611.png&#34; alt=&#34;01&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>班級段考成績查詢系統使用說明</title>
       <link>https://nasiroct.github.io/blog/posts/classroom/</link>
